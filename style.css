@@ -1,0 +1,120 @@
+body {
+	padding-bottom: 70px;
+/* 	background-image: url("assets/images/weather.png") */
+}
+
+.lgheading {
+	color: #4aaaa5;
+}
+
+#porth {
+	margin-left: 50px;
+}
+
+#yourname {
+	background: #4aaaa5;
+	color: #ffffff;
+	width: 300px;
+	text-align: center;
+	margin: 0px 0px 0px 20px;
+	padding: 20px 0px;
+}
+
+.nav {
+	margin-right: 150px;
+	margin-top: 30px;
+}
+
+
+/* Main Section */
+
+p {
+text-align: justify;
+}
+
+
+.sidebar {
+	text-align: center;
+}
+
+#side-hr {
+	width: 200px;
+}
+
+
+/*Images*/
+
+#bio-image {
+	float: left;
+	width: 300px;
+	height: 169px;
+	border: black solid 2px;
+	margin:0px 5px; 
+}
+
+
+.socialmediapic {
+	width: 50px;
+	height: 50px;
+}
+
+#foot {
+	background: #666666;
+	border-top: solid #4aaaa5 6px;	
+}
+
+
+#copyright {
+	color: #ffffff;
+	text-align: center;
+}
+
+
+form {
+	width:80%;
+	height: 80%;
+}
+
+.lab {
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+
+input, textarea {
+	width: 100%;
+	margin-top: 6px;
+}
+
+textarea {
+	height: 120px;
+}
+
+/*Placeholder headings*/
+.piclab {
+	position: relative;
+	background: #4aaaa5;
+	color: #ffffff;
+	width: 200px;
+	padding: 10px;
+	text-align: center;
+	bottom: 75px;
+	left: 40px;
+}
+
+.piclab:hover {
+	background: #418e8a;
+}
+
+.pic {
+	margin-left: 40px;
+}
+
+#rps {
+	margin-left: 40px;
+}
+
+#tba {
+	position: relative;
+	top: 100px; 
+}
