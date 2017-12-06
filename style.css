@@ -1,6 +1,6 @@
 body {
 	padding-bottom: 70px;
-/* 	background-image: url("assets/images/weather.png") */
+	background: #ccc;
 }
 
 .lgheading {
@@ -16,7 +16,7 @@ body {
 	color: #ffffff;
 	width: 300px;
 	text-align: center;
-	margin: 0px 0px 0px 20px;
+	margin: 0px 0px 0px 184px;
 	padding: 20px 0px;
 }
 
@@ -25,37 +25,54 @@ body {
 	margin-top: 30px;
 }
 
-
-/* Main Section */
-
-p {
-text-align: justify;
+.paragraph {
+	margin-top: 20px;
+	text-align: left;
 }
-
 
 .sidebar {
 	text-align: center;
+	width: 270px;
 }
 
-#side-hr {
-	width: 200px;
+.panel-heading {
+	background: #ffffff;
+	height: 40%;
 }
 
+#connect-head {
+	margin: 0px;
+}
+
+.panel-content {
+	height: 75px;
+}
+
+#entire-content {
+	padding: 0;
+}
+
+#head {
+	padding: 0;
+}
+
+.main-section {
+	background: #ffffff;
+}
 
 /*Images*/
 
 #bio-image {
-	float: left;
-	width: 300px;
-	height: 169px;
+	width: 395px;
+	height: 222px;
 	border: black solid 2px;
-	margin:0px 5px; 
 }
 
 
 .socialmediapic {
 	width: 50px;
 	height: 50px;
+	margin-top: 10px;
 }
 
 #foot {
