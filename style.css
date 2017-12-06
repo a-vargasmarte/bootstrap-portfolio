@@ -88,21 +88,6 @@ textarea {
 }
 
 /*Placeholder headings*/
-.piclab {
-	position: relative;
-	background: #4aaaa5;
-	color: #ffffff;
-	width: 200px;
-	padding: 10px;
-	text-align: center;
-	bottom: 75px;
-	left: 40px;
-}
-
-.piclab:hover {
-	background: #418e8a;
-}
-
 .pic {
 	margin-left: 40px;
 }
