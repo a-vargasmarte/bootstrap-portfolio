@@ -30,24 +30,6 @@ body {
 	text-align: left;
 }
 
-.sidebar {
-	text-align: center;
-	width: 270px;
-}
-
-.panel-heading {
-	background: #ffffff;
-	height: 40%;
-}
-
-#connect-head {
-	margin: 0px;
-}
-
-.panel-content {
-	height: 75px;
-}
-
 #entire-content {
 	padding: 0;
 }
@@ -72,7 +54,7 @@ body {
 .socialmediapic {
 	width: 50px;
 	height: 50px;
-	margin-top: 10px;
+	margin-bottom: 40px;
 }
 
 #foot {
