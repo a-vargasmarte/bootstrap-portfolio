@@ -7,10 +7,6 @@ body {
 	color: #4aaaa5;
 }
 
-#porth {
-	margin-left: 50px;
-}
-
 #yourname {
 	background: #4aaaa5;
 	color: #ffffff;
@@ -23,6 +19,19 @@ body {
 	margin-top: 30px;
 }
 
+.nav-label {
+	position: relative;
+	bottom: 80px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.porth {
+	width: 320px;
+	background: #4aaaa5;
+	margin-left: 4px;
+	padding: 10px 0;
+}
 .paragraph {
 	margin-top: 20px;
 	text-align: left;
