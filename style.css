@@ -76,10 +76,10 @@ body {
 }
 
 
-form {
+/* form {
 	width:80%;
 	height: 80%;
-}
+} */
 
 .lab {
 	float: left;
@@ -94,6 +94,13 @@ input, textarea {
 
 textarea {
 	height: 120px;
+}
+
+.btn {
+	background: #4aaaa5;
+	color: #ffffff;
+	margin-left: 15px;
+	margin-bottom: 30px;
 }
 
 /*Placeholder headings*/
